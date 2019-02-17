@@ -104,7 +104,7 @@ export default class Toolbar extends React.Component {
         <div className="toolbarActions">
           <a
             className="button fa fa-plus"
-            title="Add a new entity"
+            title="Add a new poop!!@"
             onClick={this.addEntity}
           />
           <a
