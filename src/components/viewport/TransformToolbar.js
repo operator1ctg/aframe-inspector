@@ -74,7 +74,7 @@ export default class TransformToolbar extends React.Component {
           <input
             id="local"
             type="checkbox"
-            title="Toggle between local and world space transforms"
+            title="Toggle poop between local and world space transforms"
             checked={
               this.state.localSpace || this.state.selectedTransform === 'scale'
             }
